@@ -1,0 +1,11 @@
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\lab6\kalkulator\bin\Debug\kalkulator.exe.config
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\lab6\kalkulator\bin\Debug\kalkulator.exe
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\lab6\kalkulator\bin\Debug\kalkulator.pdb
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\lab6\kalkulator\bin\Debug\Grafika.dll
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\lab6\kalkulator\bin\Debug\Grafika.pdb
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\lab6\kalkulator\obj\Debug\kalkulator.csprojResolveAssemblyReference.cache
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\lab6\kalkulator\obj\Debug\kalkulator.main_window.resources
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\lab6\kalkulator\obj\Debug\kalkulator.Properties.Resources.resources
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\lab6\kalkulator\obj\Debug\kalkulator.csproj.GenerateResource.Cache
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\lab6\kalkulator\obj\Debug\kalkulator.exe
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\lab6\kalkulator\obj\Debug\kalkulator.pdb

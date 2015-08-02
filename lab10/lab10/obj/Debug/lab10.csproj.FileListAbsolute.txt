@@ -1,0 +1,6 @@
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\lab10\lab10\bin\Debug\lab10.exe.config
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\lab10\lab10\obj\Debug\lab10.csprojResolveAssemblyReference.cache
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\lab10\lab10\bin\Debug\lab10.exe
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\lab10\lab10\bin\Debug\lab10.pdb
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\lab10\lab10\obj\Debug\lab10.exe
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\lab10\lab10\obj\Debug\lab10.pdb

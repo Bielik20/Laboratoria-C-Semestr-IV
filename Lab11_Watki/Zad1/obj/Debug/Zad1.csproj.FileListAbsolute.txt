@@ -1,0 +1,6 @@
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\Lab11_Watki\Zad1\bin\Debug\Zad1.exe.config
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\Lab11_Watki\Zad1\bin\Debug\Zad1.exe
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\Lab11_Watki\Zad1\bin\Debug\Zad1.pdb
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\Lab11_Watki\Zad1\obj\Debug\Zad1.csprojResolveAssemblyReference.cache
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\Lab11_Watki\Zad1\obj\Debug\Zad1.exe
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\Lab11_Watki\Zad1\obj\Debug\Zad1.pdb

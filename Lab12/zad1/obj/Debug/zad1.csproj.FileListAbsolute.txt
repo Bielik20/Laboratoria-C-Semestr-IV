@@ -1,0 +1,12 @@
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\Lab12\zad1\bin\Debug\zad1.exe.config
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\Lab12\zad1\obj\Debug\zad1.csprojResolveAssemblyReference.cache
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\Lab12\zad1\obj\Debug\zad1.MainForm.resources
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\Lab12\zad1\obj\Debug\zad1.FirstRunForm.resources
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\Lab12\zad1\obj\Debug\zad1.MainPage.resources
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\Lab12\zad1\obj\Debug\zad1.Properties.Resources.resources
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\Lab12\zad1\obj\Debug\zad1.csproj.GenerateResource.Cache
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\Lab12\zad1\bin\Debug\zad1.exe
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\Lab12\zad1\bin\Debug\zad1.pdb
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\Lab12\zad1\obj\Debug\zad1.exe
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\Lab12\zad1\obj\Debug\zad1.pdb
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\Lab12\zad1\obj\Debug\zad1.LoginForm.resources

@@ -1,0 +1,11 @@
+C:\Documents and Settings\Student\Pulpit\Laboratoria\lab4_1\lab4\obj\x86\Debug\lab4.exe
+C:\Documents and Settings\Student\Pulpit\Laboratoria\lab4_1\lab4\obj\x86\Debug\lab4.pdb
+C:\Documents and Settings\Student\Pulpit\Laboratoria\lab4_1\lab4\bin\Debug\lab4.exe
+C:\Documents and Settings\Student\Pulpit\Laboratoria\lab4_1\lab4\bin\Debug\lab4.pdb
+C:\Documents and Settings\Student\Pulpit\Laboratoria\lab4_1\lab4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Student\Pulpit\Laboratoria\lab4_1\lab4\obj\x86\Debug\lab4.Form1.resources
+C:\Documents and Settings\Student\Pulpit\Laboratoria\lab4_1\lab4\obj\x86\Debug\lab4.Properties.Resources.resources
+C:\Documents and Settings\Student\Pulpit\Laboratoria\lab4_1\lab4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Student\Pulpit\Laboratoria\lab4_1\lab4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bielik\OneDrive\Education and Work\Studia\Informatyka\Laboratoria\lab4\zad_1\obj\x86\Debug\lab4.exe
+C:\Users\Bielik\OneDrive\Education and Work\Studia\Informatyka\Laboratoria\lab4\zad_1\obj\x86\Debug\lab4.pdb

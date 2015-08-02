@@ -1,0 +1,4 @@
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\lab6\Grafika\bin\Release\Grafika.dll
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\lab6\Grafika\bin\Release\Grafika.pdb
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\lab6\Grafika\obj\Release\Grafika.dll
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\lab6\Grafika\obj\Release\Grafika.pdb

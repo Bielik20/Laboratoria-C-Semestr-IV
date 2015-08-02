@@ -1,0 +1,7 @@
+C:\Documents and Settings\Adam\Pulpit\Bielik\Lab1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\Adam\Pulpit\Bielik\Lab1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Documents and Settings\Adam\Pulpit\Bielik\Lab1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Adam\Pulpit\Bielik\Lab1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\Adam\Pulpit\Bielik\Lab1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Bielik\OneDrive\Education and Work\Studia\Informatyka\Laboratoria\Lab1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Bielik\OneDrive\Education and Work\Studia\Informatyka\Laboratoria\Lab1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,9 @@
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\lab5\Edytor_Tekstu\bin\Debug\Edytor_Tekstu.exe.config
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\lab5\Edytor_Tekstu\bin\Debug\Edytor_Tekstu.exe
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\lab5\Edytor_Tekstu\bin\Debug\Edytor_Tekstu.pdb
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\lab5\Edytor_Tekstu\obj\Debug\Edytor_Tekstu.Form1.resources
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\lab5\Edytor_Tekstu\obj\Debug\Edytor_Tekstu.Properties.Resources.resources
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\lab5\Edytor_Tekstu\obj\Debug\Edytor_Tekstu.csproj.GenerateResource.Cache
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\lab5\Edytor_Tekstu\obj\Debug\Edytor_Tekstu.exe
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\lab5\Edytor_Tekstu\obj\Debug\Edytor_Tekstu.pdb
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\lab5\Edytor_Tekstu\obj\Debug\Edytor_Tekstu.csprojResolveAssemblyReference.cache

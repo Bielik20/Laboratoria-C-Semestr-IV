@@ -1,0 +1,5 @@
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\Lab11_Watki\Zad3\bin\Debug\Zad3.exe.config
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\Lab11_Watki\Zad3\bin\Debug\Zad3.exe
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\Lab11_Watki\Zad3\bin\Debug\Zad3.pdb
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\Lab11_Watki\Zad3\obj\Debug\Zad3.exe
+C:\Users\Damian\SkyDrive\Education and Work\Studia\Informatyka\Laboratoria\Lab11_Watki\Zad3\obj\Debug\Zad3.pdb
